@@ -1,2 +1,2 @@
 # tinyshader
-Basic pixel shader, ased on numpy
+Basic pixel shader, based on numpy
